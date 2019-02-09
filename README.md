@@ -4,7 +4,10 @@ A Vue.js project with material design to invent new smoothie recipes.
 
 ## What I learnt
 
-- Vue-js basis 
+- Vue-js basis
+- firebase basis
+
+[ninja-smoothies](https://ninja-smoothies-mdl.firebaseapp.com/#/)
 
 ## Build Setup
 
